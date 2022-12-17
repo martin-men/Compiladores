@@ -1,9 +1,8 @@
 # Árbol de Navidad
-Un pequeño experimento en JavaScript para el evento The Hour of Code en El Salvador.
+Árbol de navidad para Compiladores y Lenguajes 2022 - B
 
-##Temas abordados
-- HTML y CSS
-- Variables
-- Vectores
-- Funciones
-- Eventos
+## Integrantes
+- Darío Charro
+- Martín Mendieta
+- Daniela Guachamin
+- Sebastián Moyano
