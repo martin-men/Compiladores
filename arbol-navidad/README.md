@@ -6,3 +6,6 @@
 - Martín Mendieta
 - Daniela Guachamin
 - Sebastián Moyano
+
+## Para visualizar el árbol
+Ejecute el archivo "index.html" en el navegador 
